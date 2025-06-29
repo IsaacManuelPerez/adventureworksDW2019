@@ -105,4 +105,4 @@ Este proyecto integrador me permitió aplicar todos los conocimientos del módul
 
 **Email:** imperez@correo.unicordoba.edu.co  
 **GitHub:** [IsaacManuelPerez](https://github.com/IsaacManuelPerez)
-----
+---
