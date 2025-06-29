@@ -59,22 +59,6 @@ AdventureWorks Global es una empresa multinacional del sector ciclismo. El objet
 ### 🔹 Detalle del Mercado EE.UU.
 ![Mercado EE.UU.](img/mercado_eeuu.png)
 
-### 🔹 Informe General
-- Ingresos totales: **$29.36M**
-- Margen bruto: **41%**
-- Margen neto: **31%**
-- Visualizaciones interactivas: líneas, mapas, KPIs, segmentadores
-
-### 🔹 Detalles por Categoría
-- “Bikes” = **96.5%** de ventas totales
-- Subcategorías líderes: **Road Bikes**, **Mountain Bikes**
-- Análisis de rentabilidad y eficiencia por segmento
-
-### 🔹 Informe EE.UU.
-- Ventas: **$9.39M**
-- Análisis por estado, ciudad y categoría
-- Costos controlados con margen neto constante
-
 ---
 
 ## 🔍 Insights Clave
