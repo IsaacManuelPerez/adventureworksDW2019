@@ -48,16 +48,16 @@ AdventureWorks Global es una empresa multinacional del sector ciclismo. El objet
 ## 🖼 Visualizaciones del Dashboard
 
 ### 🔹 Dashboard General
-![Dashboard General](img/dashboard_general.png)
+![Dashboard General](img/portada.png)
 
 ### 🔹 Análisis por Categoría
-![Detalle por Categoría](img/detalle_categoria.png)
+![Informe de Ventas](img/Informe_ventas.png)
 
 ### 🔹 Ventas por Territorio
-![Ventas por Territorio](img/ventas_territorio.png)
+![informe Detallado de Ventas](img/Informe_detallado_ventas.png)
 
 ### 🔹 Detalle del Mercado EE.UU.
-![Mercado EE.UU.](img/mercado_eeuu.png)
+![Mercado EE.UU.](img/Ventas_eeuu.png)
 
 ### 🔹 Informe General
 - Ingresos totales: **$29.36M**
